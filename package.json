@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.12.6",
+    "knex": "^0.20.10",
     "lodash": "^4.17.4",
     "mongoose": "^4.8.1",
     "mysql": "^2.13.0",
